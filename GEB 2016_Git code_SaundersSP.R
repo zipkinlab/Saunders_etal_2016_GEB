@@ -1,5 +1,5 @@
 #############################################################################
-#############Data manipulation and model fitting code########################
+############ Data manipulation and model fitting code########################
 ##Evaluating confidence in climate-based predictions of population change in 
 ##a migratory species. Global Ecology & Biogeography 25:1000-1012
 ##Authors: Saunders, SP, Ries, L, Oberhauser, KS, Zipkin, EF
