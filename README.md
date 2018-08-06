@@ -2,9 +2,10 @@
 
 ### Sarah P. Saunders, Leslie Ries, Karen S. Oberhauser and Elise F. Zipkin
 
+### Global Ecology and Biogeography
+
 ### Please contact the first author for questions about the code or data: Sarah P. Saunders (sarahpsaunders@gmail.com)
 __________________________________________________________________________________________________________________________________________
-Code repository for Evaluating confidence in climate-based predictions of population change in a migratory species
 
 ## Abstract:
 **Aim** Forecasting ecological responses to climate change is a common objective, but there are few methods for evaluating confidence in such predictions. For migratory species, in particular, it is also essential to consider the extent of spatial synchrony among separate breeding populations in range-wide predictions. We develop a quantitative method to evaluate the accuracy of climate-based ecological predictions and use this approach to assess the extent of spatio-temporal synchrony among distinct regions within the breeding range
