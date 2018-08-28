@@ -7,7 +7,7 @@
 ### Please contact the first author for questions about the code or data: Sarah P. Saunders (sarahpsaunders@gmail.com)
 __________________________________________________________________________________________________________________________________________
 
-## Abstract:
+## Abstract
 **Aim** Forecasting ecological responses to climate change is a common objective, but there are few methods for evaluating confidence in such predictions. For migratory species, in particular, it is also essential to consider the extent of spatial synchrony among separate breeding populations in range-wide predictions. We develop a quantitative method to evaluate the accuracy of climate-based ecological predictions and use this approach to assess the extent of spatio-temporal synchrony among distinct regions within the breeding range
 of a single migratory population.  
 **Location** We model weekly site-specific summer abundances (1996–2011) of monarch butterflies (Danaus plexippus) in the Midwestern USA as a function of climate conditions experienced during a shared spring migration/breeding phase in Texas and separate summer recruitment periods in Ohio and Illinois.  
