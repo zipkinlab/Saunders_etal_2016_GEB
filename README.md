@@ -1,6 +1,6 @@
 # [Evaluating confidence in climate-based predictions of population change in a migratory species](http://onlinelibrary.wiley.com/doi/10.1111/geb.12461/full)
 
-### Sarah P. Saunders, Leslie Ries, Karen S. Oberhauser and Elise F. Zipkin
+### Sarah P. Saunders, Leslie Ries, Karen S. Oberhauser, and Elise F. Zipkin
 
 ### Global Ecology and Biogeography
 
